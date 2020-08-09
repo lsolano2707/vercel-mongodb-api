@@ -1,14 +1,18 @@
 {
   "name": "my-mongodb-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Serverless test on Vercel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "lsolano2707",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/lsolano2707/vercel-mongodb-api.git"
+  },
   "dependencies": {
     "mongodb": "^3.6.0"
   }
