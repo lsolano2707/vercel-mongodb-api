@@ -1,0 +1,8 @@
+{
+  "name": "my-mongodb-api",
+  "version": 2,
+  "env": {
+    "DATABASE_URL": "@database-url",
+    "DATABASE_DATABASE": "@database-database"
+  }
+}
